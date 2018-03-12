@@ -1,0 +1,410 @@
+{
+    "errno": 0,
+    "data": [
+        {
+            "title": "街边小店",
+            "url": "img/banner01.jpg",
+            "bgurl": "img/banner/01/bg.jpg",
+            "authors":{
+                "src01":"img/banner/01/touxiang-01.jpg",
+                "src02":"img/banner/01/touxiang-02.jpg",
+                "src03":"img/banner/01/touxiang-03.jpg",
+                "src04":"img/banner/01/touxiang-04.jpg",
+                "src05":"img/banner/01/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "卧室",
+                    "url": "img/banner/01/bg-01.jpg"
+                },
+                {
+                    "title": "书房",
+                    "url": "img/banner/01/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/01/01.jpg",
+                    "mintitle": "早安，街边的小店。",
+                    "repins": 163,
+                    "likes": 38,
+                    "writter":"cyrilhxy",
+                    "writtersrc": "img/banner/01/touxiang.jpg",
+                    "boards": "建筑"
+                },
+                {
+                    "src": "img/banner/01/02.jpg",
+                    "mintitle": "早安，街边的小店。",
+                    "repins": 91,
+                    "likes": 19,
+                    "writter":"cyrilhxy",
+                    "writtersrc": "img/banner/01/touxiang.jpg",
+                    "boards": "建筑"
+                },
+                {
+                    "src": "img/banner/01/03.jpg",
+                    "mintitle": "早安，街边的小店。",
+                    "repins": 93,
+                    "likes": 22,
+                    "writter":"cyrilhxy",
+                    "writtersrc": "img/banner/01/touxiang.jpg",
+                    "boards": "建筑"
+                },
+                {
+                    "src": "img/banner/01/04.jpg",
+                    "mintitle": "早安，街边的小店。",
+                    "repins": 155,
+                    "likes": 30,
+                    "writter":"cyrilhxy",
+                    "writtersrc": "img/banner/01/touxiang.jpg",
+                    "boards": "建筑"
+                }
+            ]
+        },
+        {
+            "title": "局部摄影",
+            "url": "img/banner02.jpg",
+            "bgurl": "img/banner/02/bg.jpg",
+            "authors":{
+                "src01":"img/banner/02/touxiang-01.jpg",
+                "src02":"img/banner/02/touxiang-02.jpg",
+                "src03":"img/banner/02/touxiang-03.jpg",
+                "src04":"img/banner/02/touxiang-04.jpg",
+                "src05":"img/banner/02/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "逆光摄影",
+                    "url": "img/banner/02/bg-01.jpg"
+                },
+                {
+                    "title": "多肉植物",
+                    "url": "img/banner/02/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/02/01.jpg",
+                    "mintitle": "",
+                    "repins": 17,
+                    "likes": 2,
+                    "writter":"Y-猫与白日梦",
+                    "writtersrc": "img/banner/02/touxiang.jpg",
+                    "boards": "【病女系】"
+                },
+                {
+                    "src": "img/banner/02/02.jpg",
+                    "mintitle": "",
+                    "repins": 20,
+                    "likes": 6,
+                    "writter":"Y-猫与白日梦",
+                    "writtersrc": "img/banner/02/touxiang.jpg",
+                    "boards": "【病女系】"
+                },
+                {
+                    "src": "img/banner/02/03.jpg",
+                    "mintitle": "",
+                    "repins": 14,
+                    "likes": 4,
+                    "writter":"Y-猫与白日梦",
+                    "writtersrc": "img/banner/02/touxiang.jpg",
+                    "boards": "【病女系】"
+                },
+                {
+                    "src": "img/banner/02/04.jpg",
+                    "mintitle": "",
+                    "repins": 9,
+                    "likes": 1,
+                    "writter":"Y-猫与白日梦",
+                    "writtersrc": "img/banner/02/touxiang.jpg",
+                    "boards": "【病女系】"
+                },
+                {
+                    "src": "img/banner/02/05.jpg",
+                    "mintitle": "",
+                    "repins": 16,
+                    "likes": 5,
+                    "writter":"Y-猫与白日梦",
+                    "writtersrc": "img/banner/02/touxiang.jpg",
+                    "boards": "【病女系】"
+                }
+            ]
+        },
+        {
+            "title": "C4D视觉设计",
+            "url": "img/banner03.jpg",
+            "bgurl": "img/banner/03/bg.jpg",
+            "authors":{
+                "src01":"img/banner/03/touxiang-01.jpg",
+                "src02":"img/banner/03/touxiang-02.jpg",
+                "src03":"img/banner/03/touxiang-03.jpg",
+                "src04":"img/banner/03/touxiang-04.jpg",
+                "src05":"img/banner/03/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "设计配色",
+                    "url": "img/banner/03/bg-01.jpg"
+                },
+                {
+                    "title": "画册设计",
+                    "url": "img/banner/03/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/03/01.jpg",
+                    "mintitle": "TGideas|三维|场景|zesen - 原创作品 - 站酷 (ZCOOL)",
+                    "repins": 15,
+                    "likes": 2,
+                    "writter":"设计师",
+                    "writtersrc": "img/banner/03/touxiang.jpg",
+                    "boards": "C4D"
+                },
+                {
+                    "src": "img/banner/03/02.jpg",
+                    "mintitle": "TGideas|三维|场景|zesen - 原创作品 - 站酷 (ZCOOL)",
+                    "repins": 20,
+                    "likes": 2,
+                    "writter":"设计师",
+                    "writtersrc": "img/banner/03/touxiang.jpg",
+                    "boards": "C4D"
+                },
+                {
+                    "src": "img/banner/03/03.jpg",
+                    "mintitle": "TGideas|三维|场景|zesen - 原创作品 - 站酷 (ZCOOL)",
+                    "repins": 2,
+                    "likes": 4,
+                    "writter":"设计师",
+                    "writtersrc": "img/banner/03/touxiang.jpg",
+                    "boards": "C4D"
+                },
+                {
+                    "src": "img/banner/03/04.jpg",
+                    "mintitle": "御龙在天.5周年|三维|其他三维|zesen - 原创作品 - 站酷 (ZCOOL)",
+                    "repins": 9,
+                    "likes": 1,
+                    "writter":"设计师",
+                    "writtersrc": "img/banner/03/touxiang.jpg",
+                    "boards": "C4D"
+                },
+                {
+                    "src": "img/banner/03/05.jpg",
+                    "mintitle": "御龙在天.5周年|三维|其他三维|zesen - 原创作品 - 站酷 (ZCOOL)",
+                    "repins": 22,
+                    "likes": 5,
+                    "writter":"设计师",
+                    "writtersrc": "img/banner/03/touxiang.jpg",
+                    "boards": "C4D"
+                }
+            ]
+        },
+        {
+            "title": "风景手机壁纸",
+            "url": "img/banner04.jpg",
+            "bgurl": "img/banner/04/bg.jpg",
+            "authors":{
+                "src01":"img/banner/04/touxiang-01.jpg",
+                "src02":"img/banner/04/touxiang-02.jpg",
+                "src03":"img/banner/04/touxiang-03.jpg",
+                "src04":"img/banner/04/touxiang-04.jpg",
+                "src05":"img/banner/04/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "日系摄影",
+                    "url": "img/banner/04/bg-01.jpg"
+                },
+                {
+                    "title": "黑白摄影",
+                    "url": "img/banner/04/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/04/01.jpg",
+                    "mintitle": "唯美山间风景优美吊桥自然绿色护眼手机壁纸",
+                    "repins": 24,
+                    "likes": 3,
+                    "writter":"☀Hanna",
+                    "writtersrc": "img/banner/04/touxiang03.jpg",
+                    "boards": "来我的长街，做我的归人"
+                },
+                {
+                    "src": "img/banner/04/02.jpg",
+                    "mintitle": "D'Arcy、风景、美景、壁纸、手机壁纸",
+                    "repins": 8,
+                    "likes": 1,
+                    "writter":"雾里看",
+                    "writtersrc": "img/banner/04/touxiang01.jpg",
+                    "boards": "创意"
+                },
+                {
+                    "src": "img/banner/04/03.jpg",
+                    "mintitle": "D'Arcy、风景、美景、壁纸、手机壁纸",
+                    "repins": 16,
+                    "likes": 4,
+                    "writter":"夏之日冬之夜",
+                    "writtersrc": "img/banner/04/touxiang.jpg",
+                    "boards": "(.>__<.) 美景 自然风光 大街小巷"
+                },
+                {
+                    "src": "img/banner/04/04.jpg",
+                    "mintitle": "D'Arcy、风景、美景、壁纸、手机壁纸",
+                    "repins": 13,
+                    "likes": 3,
+                    "writter":"雾里看",
+                    "writtersrc": "img/banner/04/touxiang01.jpg",
+                    "boards": "创意"
+                },
+                {
+                    "src": "img/banner/04/05.jpg",
+                    "mintitle": "D'Arcy、风景、美景、壁纸、手机壁纸",
+                    "repins": 21,
+                    "likes": 5,
+                    "writter":"O9RzA7RE",
+                    "writtersrc": "img/banner/04/touxiang02.jpg",
+                    "boards": "美"
+                }
+            ]
+        },
+        {
+            "title": "亮色系家具",
+            "url": "img/banner05.jpg",
+            "bgurl": "img/banner/05/bg.jpg",
+            "authors":{
+                "src01":"img/banner/05/touxiang-01.jpg",
+                "src02":"img/banner/05/touxiang-02.jpg",
+                "src03":"img/banner/05/touxiang-03.jpg",
+                "src04":"img/banner/05/touxiang-04.jpg",
+                "src05":"img/banner/05/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "书房",
+                    "url": "img/banner/05/bg-01.jpg"
+                },
+                {
+                    "title": "日系简约风格家居",
+                    "url": "img/banner/05/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/05/01.jpg",
+                    "mintitle": "波西米亚风格客厅精选",
+                    "repins": 65,
+                    "likes": 17,
+                    "writter":"童艺创意美术",
+                    "writtersrc": "img/banner/05/touxiang.jpg",
+                    "boards": "【家装】布置⊙墙面"
+                },
+                {
+                    "src": "img/banner/05/02.jpg",
+                    "mintitle": "",
+                    "repins": 11,
+                    "likes": 2,
+                    "writter":"童艺创意美术",
+                    "writtersrc": "img/banner/05/touxiang.jpg",
+                    "boards": "临时收藏"
+                },
+                {
+                    "src": "img/banner/05/03.jpg",
+                    "mintitle": "In love with this chair.. Love this Radiant Orchid",
+                    "repins": 22,
+                    "likes": 3,
+                    "writter":"童艺创意美术",
+                    "writtersrc": "img/banner/05/touxiang.jpg",
+                    "boards": "家具"
+                },
+                {
+                    "src": "img/banner/05/04.jpg",
+                    "mintitle": "室内楼梯设计效果图",
+                    "repins": 39,
+                    "likes": 17,
+                    "writter":"童艺创意美术",
+                    "writtersrc": "img/banner/05/touxiang.jpg",
+                    "boards": "临时收藏"
+                },
+                {
+                    "src": "img/banner/05/05.jpg",
+                    "mintitle": "Mundvoll 咖啡厅和食品杂货店 - 餐饮 - idzoom | 室内设计师",
+                    "repins": 21,
+                    "likes": 7,
+                    "writter":"童艺创意美术",
+                    "writtersrc": "img/banner/05/touxiang.jpg",
+                    "boards": "临时收藏"
+                }
+            ]
+        },
+        {
+            "title": "路",
+            "url": "img/banner06.jpg",
+            "bgurl": "img/banner/06/bg.jpg",
+            "authors":{
+                "src01":"img/banner/06/touxiang-01.jpg",
+                "src02":"img/banner/06/touxiang-02.jpg",
+                "src03":"img/banner/06/touxiang-03.jpg",
+                "src04":"img/banner/06/touxiang-04.jpg",
+                "src05":"img/banner/06/touxiang-05.jpg"
+            },
+            "mores":[
+                {
+                    "title": "人像摄影",
+                    "url": "img/banner/06/bg-01.jpg"
+                },
+                {
+                    "title": "黑白摄影",
+                    "url": "img/banner/06/bg-02.jpg"
+                }
+            ],
+            "defail": [
+                {
+                    "src": "img/banner/06/01.jpg",
+                    "mintitle": "Into The Sun by Blake Westmoreland on 500px",
+                    "repins": 85,
+                    "likes": 8,
+                    "writter":"褪色的微笑",
+                    "writtersrc": "img/banner/06/touxiang.jpg",
+                    "boards": "公路、道路、铁路背景"
+                },
+                {
+                    "src": "img/banner/06/02.jpg",
+                    "mintitle": "Elia Locardi在 500px 上的照片The Future Is Now",
+                    "repins": 50,
+                    "likes": 2,
+                    "writter":"褪色的微笑",
+                    "writtersrc": "img/banner/06/touxiang.jpg",
+                    "boards": "公路、道路、铁路背景"
+                },
+                {
+                    "src": "img/banner/06/03.jpg",
+                    "mintitle": "蓝天下的黄土铁路壁纸封面大图",
+                    "repins": 34,
+                    "likes": 2,
+                    "writter":"褪色的微笑",
+                    "writtersrc": "img/banner/06/touxiang.jpg",
+                    "boards": "公路、道路、铁路背景"
+                },
+                {
+                    "src": "img/banner/06/04.jpg",
+                    "mintitle": "General 3020x1500 landscape road Sun nature sky grass",
+                    "repins": 45,
+                    "likes": 3,
+                    "writter":"褪色的微笑",
+                    "writtersrc": "img/banner/06/touxiang.jpg",
+                    "boards": "公路、道路、铁路背景"
+                },
+                {
+                    "src": "img/banner/06/05.jpg",
+                    "mintitle": "photo25.jpg (1438×1018)",
+                    "repins": 38,
+                    "likes": 3,
+                    "writter":"褪色的微笑",
+                    "writtersrc": "img/banner/06/touxiang.jpg",
+                    "boards": "公路、道路、铁路背景"
+                }
+            ]
+        }
+    ]
+}

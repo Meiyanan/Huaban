@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	touch-action:none;
+}
+body{
+	font-family: "helvetica neue",arial,sans-serif;
+    font-size: 14px;
+    color: #444;
+    /*height: 10000px;*/
+}
+a{
+	color: #222;
+    text-decoration: none;
+    outline: 0;
+	
+}
+.cearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}

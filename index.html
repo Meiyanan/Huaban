@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,width=device-width" id="viewport">
+	<title>Document</title>
+</head>
+<body>
+	<div id="page" style="display: none">
+		<section class="index_page" id="index_page">
+			<div class="index-cover">
+				<a href="#" class="cover-menu"><span></span></a>
+				<div class="cover-info">
+					<p class="cover-logo"></p>
+					<p class="cover-slogan"></p>
+					<div class="search1">
+						<div><span></span></div>
+						<input type="text" placeholder="搜索你喜欢的">
+					</div>
+					<div class="cover-slide"></div>
+				</div>
+			</div>
+		</section>
+		<section class="new_index_page" id="new_index_page">
+			<div id="header_unit">
+				<div class="header">
+					<div class="logo">
+						<a href="/" class="img"></a>
+						<a href="/"><span>发现</span></a>
+					</div>
+					<div class="search2">
+						<a><span></span></a>
+						<input type="text">
+						<div><span></span></div>
+					</div>
+					<div class="search_btn"><span></span></div>
+					<div class="menu"><span></span></div>
+				</div>
+			</div>
+			<div class="header-place-holder"></div>
+			<div class="recommend-line">
+				<span>大家正在关注</span>
+			</div>
+			<div class="recommend-info">
+				<ul>
+				</ul>
+			</div>
+			<div class="recommend-line">
+				<span>为您推荐</span>
+			</div>
+			<div class="recommend-items">
+				<ul></ul>
+			</div>
+			<div class="recommend-floor">
+				<span>加载更多</span>
+			</div>
+		</section>
+		<section class="bar-defail" id="bar-defail" >
+			<div id="header_unit">
+				<div class="header">
+					<div class="logo">
+						<a href="/" class="img"></a>
+						<a href="/"><span>发现</span></a>
+					</div>
+					<div class="search2">
+						<a><span></span></a>
+						<input type="text">
+						<div><span></span></div>
+					</div>
+					<div class="search_btn"><span></span></div>
+					<div class="menu"><span></span></div>
+				</div>
+			</div>
+			<div class="header-place-holder"></div>
+			<div class="content">
+				
+			</div>
+		</section>
+	</div>
+	<script type="text/template" id="indextpl">
+		<li class="<%=className%>">
+			<a href="<%=href%>">
+				<img src="<%=bgurl%>" alt="">
+				<img src="<%=url%>" alt="">
+				<div class="content">
+					<i></i>
+					<h2><%=title%></h2>
+					<p>
+						<span><%=sammeln%> 采集</span>
+						<span><%=fans%> 粉丝</span>
+					</p>
+					<span></span>
+				</div>
+			</a>
+		</li>
+	</script>
+	<script type="text/template" id="bardtltpl">
+		<div class="explore-banner">
+			<div class="explore-bg"><img src="<%=bgurl%>"></div>
+			<div class="explore-info">
+				<h1><%=title%></h1>
+				<a href="#"><span>关注</span></a>
+				<div class="follow-title">
+					<i class="icon"></i>
+					<span>Ta 们已关注</span>
+				</div>
+			</div>
+		</div>
+		<div class="explore-followers">
+			<ul>
+				<li><img src="<%=authors01%>" alt=""></li>
+				<li><img src="<%=authors02%>" alt=""></li>
+				<li><img src="<%=authors03%>" alt=""></li>
+				<li><img src="<%=authors04%>" alt=""></li>
+				<li><img src="<%=authors05%>" alt=""></li>
+			</ul>
+		</div>
+		<div class="dividing-line-up"></div>
+		<div class="more-explore">
+			<div class="title">
+				<span>更多发现</span>
+			</div>
+		</div>
+		<div class="wrapper">
+			<a href="#"><img src="<%=moresurl01%>" ><span><%=morestitle01%></span></a>
+			<a href="#"><img src="<%=moresurl02%>" ><span><%=morestitle02%></span></a>
+		</div>
+		<div class="dividing-line-down"></div>
+		<div class="new-explore">
+			<div class="left" id="left">
+				
+			</div>
+			<div class="right" id="right">
+				
+			</div>
+		</div>
+	</script>
+	<script type="text/template" id="banner-list">
+		<div>
+			<div class="img"><a href="#"><img src="<%=src%>"></a></div>
+			<div class="info">
+				<p><%=mintitle%></p>
+				<span><%=repins%></span>
+				<span><%=likes%></span>
+			</div>
+			<div class="author">
+				<a href="#"><img src="<%=writtersrc%>" ></a>
+				<div class="inner">
+					<a class="name"><%=writter%></a><span>采集到</span><span><%=boards%></span>
+				</div>
+			</div>
+		</div>
+	</script>
+	<script type="text/javascript" src="js/lib/require.js" data-main="js/app.js"></script>
+</body>
+</html>

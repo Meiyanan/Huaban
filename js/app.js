@@ -1,0 +1,25 @@
+require.config({
+	paths:{
+		"zepto":"lib/zepto",
+		"zepto.touch":"lib/zepto.touch",
+		"underscore":"lib/underscore",
+		"backbone":"lib/backbone"
+	},
+	shim:{
+		"zepto":{
+			exports:"Zepto"
+		},
+		"zepto.touch":{
+			exports:"Zepto",
+			deps:["zepto"]
+		}
+	},
+	map:{
+		"*":{
+			"css":"lib/css"
+		}
+	}
+})
+require(["route/route","css!reset.css"],function(route){
+	route();
+})
